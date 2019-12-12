@@ -1,0 +1,1 @@
+# samsung-diamond-tool-resource
